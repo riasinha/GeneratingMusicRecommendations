@@ -2,10 +2,10 @@
 ### Ria Sinha
 ### Capstone Java Final Project
 
-In this project, I will implement a KNN clustering algorithm to group together different songs based on similar audio features. A user can input a list of songs and the model will then recommend similar songs by computing the cosine distance between each of the vectorized features.
+In this project, I will implement a KNN clustering algorithm to group together different songs based on similar audio features. A user can input a list of songs and the model will then recommend similar songs by computing the cosine distance between each of the vectorized features. <br />
 
 How to:
-- **Run Code**: Call the recommend_songs(song_list, spotify_data, n_songs=10) function
+- **Run Code**: Call the recommend_songs(song_list, spotify_data, n_songs=10) function <br />
 """ Returns a list of recommended songs that are similar to the inputted songs
 
     Parameters:
@@ -17,7 +17,8 @@ How to:
     rect (list): A list of dictionaries that include a song and its release year as the key, value pair
 
    """
-- **Interpret Output**: Running the recommend_songs method will produce a list of songs that are similar to the input songs
+- **Interpret Output**: Running the recommend_songs method will produce a list of songs that are similar to the input songs<br />
+
 Sources: 
 - **NumPy:** https://numpy.org/doc/
 - **Pandas:** https://pandas.pydata.org/docs/
