@@ -1,6 +1,5 @@
 # Using Machine Learning to Generate Music Recommendations
 ### Ria Sinha
-### Capstone Java Final Project
 
 In this project, I will implement a KNN clustering algorithm to group together different songs based on similar audio features. A user can input a list of songs and the model will then recommend similar songs by computing the cosine distance between each of the vectorized features. <br />
 
